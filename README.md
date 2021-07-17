@@ -3,7 +3,7 @@ Multi-Scale Top-Hat transform powered by Geodesic Reconstruction for panoramic d
 
 Please cite:
 
-Román, J.C.M.; Fretes, V.R.; Adorno, C.G.; Silva, R.G.; Noguera, J.L.V.; Legal-Ayala, H.; Mello-Román, J.D.; Torres, R.D.E.; Facon, J. Panoramic Dental Radiography Image Enhancement Using Multiscale Mathematical Morphology. Sensors 2021, 21, 3110. https://doi.org/10.3390/s21093110
+Mello Román, J.C.; Fretes, V.R.; Adorno, C.G.; Silva, R.G.; Noguera, J.L.V.; Legal-Ayala, H.; Mello-Román, J.D.; Torres, R.D.E.; Facon, J. Panoramic Dental Radiography Image Enhancement Using Multiscale Mathematical Morphology. Sensors 2021, 21, 3110. https://doi.org/10.3390/s21093110
 
 # ImageJ
 An open platform for scientific image analysis. (https://imagej.net/Welcome)
